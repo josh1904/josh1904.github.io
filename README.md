@@ -2,7 +2,9 @@
 
 ### Education
 Electronic and Instrumentation, Gadjah Mada University
+
 GPA: 3.89/4.00
+
 (2021 - 2024)
 
 ### International Conference 
