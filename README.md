@@ -1,3 +1,5 @@
+./remove_github_buttons.sh
+
 # Joshua Tito Amael - Researcher
 
 ## Connect with Me:
