@@ -25,6 +25,7 @@ GPA: 3.89/4.00
 
 2. **J. T. Amael**, O. Natan, and J. E. Istiyanto, “High-Security Hardware Module with PUF and Hybrid Cryptography for Data Security,” in *IEEE Transaction on Computer* (Submitted), [arXiv:2409.09928](https://arxiv.org/abs/2409.09928)
 
+![Project Illustration](assert/1.jpg)
 ---
 
 ## Research Scope
