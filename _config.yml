@@ -2,10 +2,3 @@ title: Joshua Tito Amael
 logo: /assert/joshua.jpg
 show_downloads: true
 theme: jekyll-theme-minimal
-
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "one-page"
