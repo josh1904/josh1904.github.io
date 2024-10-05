@@ -3,41 +3,123 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title | escape }}</title>
-    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+    <title>Joshua Tito Amael - Researcher</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        html {
+            scroll-behavior: smooth;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        nav {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            background: #333;
+            color: #fff;
+            padding: 10px 0;
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+            text-align: center;
+        }
+        nav ul li {
+            display: inline;
+            margin: 0 15px;
+        }
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+        }
+        section {
+            padding: 50px 20px;
+            min-height: 100vh;
+        }
+        h1, h2, h3 {
+            text-align: center;
+        }
+        .container {
+            max-width: 1000px;
+            margin: auto;
+        }
+    </style>
 </head>
 <body>
-    <header>
-        <nav>
+
+    <!-- Navigation Menu -->
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#education">Education</a></li>
+            <li><a href="#publications">Publications</a></li>
+            <li><a href="#experience">Experience</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- Home Section -->
+    <section id="home">
+        <div class="container">
+            <h1>Joshua Tito Amael - Researcher</h1>
+            <h3>Connect with Me:</h3>
             <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#projects">Projects</a></li>
-                <li><a href="#contact">Contact</a></li>
+                <li><a href="https://www.linkedin.com/in/joshua-tito-amael-b515491a5/">LinkedIn Profile</a></li>
+                <li><a href="https://scholar.google.com/citations?hl=en&user=M_wPL-4AAAAJ">Google Scholar Profile</a></li>
             </ul>
-        </nav>
-    </header>
+        </div>
+    </section>
 
-    <main>
-        <section id="home">
-            <h1>Welcome to My Portfolio</h1>
-            <p>This is the home section</p>
-        </section>
+    <!-- Education Section -->
+    <section id="education" style="background-color: #f4f4f4;">
+        <div class="container">
+            <h2>Education</h2>
+            <p><strong>Electronic and Instrumentation</strong>, Gadjah Mada University</p>
+            <p>GPA: 3.89/4.00 (2021 - 2024)</p>
+        </div>
+    </section>
 
-        <section id="about">
-            <h2>About Me</h2>
-            <p>This is the about section</p>
-        </section>
+    <!-- Publications Section -->
+    <section id="publications">
+        <div class="container">
+            <h2>International Conference Publications</h2>
+            <ol>
+                <li><strong>J. T. Amael</strong>, J. E. Istiyanto, Z. Hakim, R. H. Sari, A. Z. K. Frisky, and O. Natan, “Securing Ventilators: Integrating Hardware Security Modules with SoftHSM and Cryptographic Algorithms,” in <em>Proceedings of the 33rd International Symposium on Industrial Electronics (ISIE)</em>, Ulsan, South Korea, June 2024, DOI: <a href="https://doi.org/10.1109/ISIE54533.2024.10595781">10.1109/ISIE54533.2024.10595781</a></li>
+                <li>Z. Hakim, O. Natan, R. H. Sari, <strong>J. T. Amael</strong>, A. Dharmawan, and J. E. Istiyanto, “6-DOF Arm Robot Control using Open-Source FPGA,” in <em>Proceedings of the International Conference on Control and Robotics Engineering (ICCRE)</em>, Osaka, Japan, May 2024, pp. 157 – 161, DOI: <a href="https://doi.org/10.1109/ICCRE61448.2024.10589887">10.1109/ICCRE61448.2024.10589887</a></li>
+            </ol>
 
-        <section id="projects">
-            <h2>Projects</h2>
-            <p>This is the projects section</p>
-        </section>
+            <h2>International Journal Publications</h2>
+            <ol>
+                <li><strong>J. T. Amael</strong>, J. E. Istiyanto, and O. Natan, “Enhancing Industrial Cybersecurity: SoftHSM Implementation on SBCs for Mitigating MITM Attacks,” in <em>IEEE Transaction on Dependable and Secure Computing</em> (Submitted), <a href="https://arxiv.org/pdf/2409.09948">arXiv:2409.09948</a></li>
+                <li><strong>J. T. Amael</strong>, O. Natan, and J. E. Istiyanto, “High-Security Hardware Module with PUF and Hybrid Cryptography for Data Security,” in <em>IEEE Transaction on Computer</em> (Submitted), <a href="https://arxiv.org/abs/2409.09928">arXiv:2409.09928</a></li>
+            </ol>
+        </div>
+    </section>
 
-        <section id="contact">
+    <!-- Experience Section -->
+    <section id="experience" style="background-color: #f4f4f4;">
+        <div class="container">
+            <h2>Experience</h2>
+            <ul>
+                <li><strong>Awardee</strong> - Best Paper for Student, 33rd International Symposium on Industrial Electronics (ISIE), Ulsan, South Korea (June 2024).</li>
+                <li><strong>Assistant</strong>, Electronics and Instrumentation Lab, Gadjah Mada University (Feb 2024 – Present).</li>
+                <li><strong>President</strong>, Elins Research Club, Gadjah Mada University (March 2023 – 2024).</li>
+                <!-- Tambahkan pengalaman lainnya sesuai konten yang kamu berikan -->
+            </ul>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <div class="container">
             <h2>Contact Me</h2>
-            <p>This is the contact section</p>
-        </section>
-    </main>
+            <p>Email: joshua@example.com</p>
+        </div>
+    </section>
+
 </body>
 </html>
