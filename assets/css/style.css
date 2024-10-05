@@ -1,1 +1,15 @@
+html {
+    scroll-behavior: smooth;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+section {
+    padding: 50px;
+    min-height: 100vh;
+}
 
