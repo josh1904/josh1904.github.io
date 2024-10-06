@@ -56,8 +56,8 @@ GPA: 3.89/4.00
 1. **Awardee** - *Best Paper for Student*  
    33rd International Symposium on Industrial Electronics (ISIE), Ulsan, South Korea (June 2024).
 
-2.**Intership**, Hardware Engineer at PT.Stechoq Robotika Indonesia
-   PT.Stechoq Robotika Indonesia (August 2023 - June 2024)
+2. **Internship** - *Hardware Engineer*  
+   PT Stechoq Robotika Indonesia (August 2023 - June 2024).
 
 3. **Assistant**, Electronics and Instrumentation Lab  
    Gadjah Mada University (Feb 2024 – Present).
@@ -74,28 +74,28 @@ GPA: 3.89/4.00
 7. **Assistant Lecturer**, Advanced Electronics  
    Gadjah Mada University (Feb 2024 – June 2024).
 
-8. **Head Researcher**, "Dana Padanan" Project 2024  
+8. **Head Researcher**, *"Dana Padanan" Project 2024*  
    Data Extraction Module for Coordination between Autonomous Robots for Industry, Gadjah Mada University (July 2024 – Dec 2024).
 
 9. **Researcher**, Matching Funds Project 2023  
    Cyber-Physical Testbed, Gadjah Mada University (July 2023 – Dec 2023).
 
-10. **Programmer**, Gadjah Mada Robotic Team, Fukuro  
-   Gadjah Mada University (Feb 2022 – 2023).
+10. **Programmer**, Gadjah Mada Robotic Team, *Fukuro*  
+    Gadjah Mada University (Feb 2022 – 2023).
 
 11. **Referee**, VEX Asian Robotics International Competition  
     VEX Robotics, Yogyakarta (Jan 2024).
 
-12. **Speaker**, Project-Based Learning and STEM Learning Training  
+12. **Speaker**, *Project-Based Learning and STEM Learning Training*  
     MGMP IPA SMP, Salatiga (Aug 2024).
 
-13. **Speaker**, Cybersecurity Awareness Seminar  
+13. **Speaker**, *Cybersecurity Awareness Seminar*  
     DIKE FMIPA UGM, Universiti Teknologi MARA, Taman Pintar Yogyakarta (Nov 2023).
 
-15. **2nd Place Winner**, Business Case Revolution of Energy 2022 Competition  
+14. **2nd Place Winner**, *Business Case Revolution of Energy 2022 Competition*  
     Society of Renewable Energy, Universitas Gadjah Mada (Nov 2022).
 
-16. **Finalist**, GEMATIK XV 2022  
+15. **Finalist**, *GEMATIK XV 2022*  
     National Student Performance in IT and Communication, Ministry of Education, Culture, Research, and Technology (Oct 2022 - Nov 2022).
 
 ---
@@ -118,6 +118,6 @@ GPA: 3.89/4.00
    The design of a drone capable of scanning rip currents using image processing techniques. This project was part of the 15th National Student Exhibition in the Field of Information and Communication Technology (October 2022 – November 2022).
 
 6. **Autonomous Monte Carlo Localization for Wheeled Soccer Robots**  
-   The design of a localization system for wheeled soccer robots by implementing the Autonomous Monte Carlo Localization (AMCL) algorithm. (February 2022 – Present).
+   The design of a localization system for wheeled soccer robots by implementing the Autonomous Monte Carlo Localization (AMCL) algorithm.
 
 ---
