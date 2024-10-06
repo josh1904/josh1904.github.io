@@ -25,6 +25,10 @@ GPA: 3.89/4.00
 
 2. **J. T. Amael**, O. Natan, and J. E. Istiyanto, “High-Security Hardware Module with PUF and Hybrid Cryptography for Data Security,” in *IEEE Transaction on Computer* (Submitted), [arXiv:2409.09928](https://arxiv.org/abs/2409.09928)
 
+3. **J. E. Istiyanto**, O. Natan, N. G. Augoestien, I. Peradeniya, S. Giffari, M. Putri, and **J. T. Amael**, “Implementing ECDSA-Based Authentication in Autonomous Mobile Robots using ICs DS28E38,” in *e-Prime - Advances in Electrical Engineering, Electronics and Energy* (Submitted).
+
+ 
+
 ---
 
 ## Research Scope
@@ -88,8 +92,32 @@ GPA: 3.89/4.00
 13. **Speaker**, Cybersecurity Awareness Seminar  
     DIKE FMIPA UGM, Universiti Teknologi MARA, Taman Pintar Yogyakarta (Nov 2023).
 
-14. **2nd Place Winner**, Business Case Revolution of Energy 2022 Competition  
+15. **2nd Place Winner**, Business Case Revolution of Energy 2022 Competition  
     Society of Renewable Energy, Universitas Gadjah Mada (Nov 2022).
 
-15. **Finalist**, GEMATIK XV 2022  
+16. **Finalist**, GEMATIK XV 2022  
     National Student Performance in IT and Communication, Ministry of Education, Culture, Research, and Technology (Oct 2022 - Nov 2022).
+
+---
+
+## Projects
+
+1. **Hardware Security Module for Autonomous Mobile Robot using IC DS28E38**  
+   The hardware security module is specifically designed to ensure the integrity of communication data between ARM robots, with the assistance of the DS28E38 security IC. This security system utilizes the ECDSA algorithm, enhanced with a PUF (Physical Uncloneable Function) to generate the keys for the algorithm.
+
+2. **BUOY-WATCH: Early Warning Rip Current Detection Alarm System Based on Computer Vision for Beach Safety Monitoring**  
+   The design of an alarm system for early detection of rip currents along the coastline using computer vision object detection. This system is designed as an early warning system to detect rip current waves.
+
+3. **ADEM: Internet of Things-based Smart Sprinkler to Prevent Heat Stress in Chickens**  
+   The development of a smart sprinkler product using IoT, which consists of sensor detectors to monitor ammonia levels, temperature, and humidity in the poultry farm to manage the sprinkler system, functioning as a preventive measure against heat stress in chickens. This research also includes the development of a mobile app to facilitate remote monitoring for farmers.
+
+4. **Hardware Security Module for Ventilator Security**  
+   The development of a prototype hardware security module to secure ventilators. This Hardware Security Module is designed to protect the ventilator's firmware using cryptographic algorithms and Physical Uncloneable Functions (PUF) on a Field Programmable Gate Array (FPGA).
+
+5. **Drone-Based Coastal Monitoring of Parangtritis Beach using Image Processing Methods**  
+   The design of a drone capable of scanning rip currents using image processing techniques. This project was part of the 15th National Student Exhibition in the Field of Information and Communication Technology (October 2022 – November 2022).
+
+6. **Autonomous Monte Carlo Localization for Wheeled Soccer Robots**  
+   The design of a localization system for wheeled soccer robots by implementing the Autonomous Monte Carlo Localization (AMCL) algorithm. (February 2022 – Present).
+
+---
