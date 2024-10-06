@@ -25,7 +25,7 @@ GPA: 3.89/4.00
 
 2. **J. T. Amael**, O. Natan, and J. E. Istiyanto, “High-Security Hardware Module with PUF and Hybrid Cryptography for Data Security,” in *IEEE Transaction on Computer* (Submitted), [arXiv:2409.09928](https://arxiv.org/abs/2409.09928)
 
-3. **J. E. Istiyanto**, O. Natan, N. G. Augoestien, I. Peradeniya, S. Giffari, M. Putri, and **J. T. Amael**, “Implementing ECDSA-Based Authentication in Autonomous Mobile Robots using ICs DS28E38,” in *e-Prime - Advances in Electrical Engineering, Electronics and Energy* (Submitted).
+3. J. E. Istiyanto, O. Natan, N. G. Augoestien, I. Peradeniya, S. Giffari, M. Putri, and **J. T. Amael**, “Implementing ECDSA-Based Authentication in Autonomous Mobile Robots using ICs DS28E38,” in *e-Prime - Advances in Electrical Engineering, Electronics and Energy* (Submitted).
 
  
 
