@@ -13,23 +13,88 @@ GPA: 3.89/4.00
 
 ---
 
-## International Conference Publications
+## International Conference
 1. **J. T. Amael**, J. E. Istiyanto, Z. Hakim, R. H. Sari, A. Z. K. Frisky, and O. Natan, “Securing Ventilators: Integrating Hardware Security Modules with SoftHSM and Cryptographic Algorithms,” in *Proceedings of the 33rd International Symposium on Industrial Electronics (ISIE)*, Ulsan, South Korea, June 2024, DOI: [10.1109/ISIE54533.2024.10595781](https://doi.org/10.1109/ISIE54533.2024.10595781)
 
 2. Z. Hakim, O. Natan, R. H. Sari, **J. T. Amael**, A. Dharmawan, and J. E. Istiyanto, “6-DOF Arm Robot Control using Open-Source FPGA,” in *Proceedings of the International Conference on Control and Robotics Engineering (ICCRE)*, Osaka, Japan, May 2024, pp. 157 – 161, DOI: [10.1109/ICCRE61448.2024.10589887](https://doi.org/10.1109/ICCRE61448.2024.10589887)
 
 ---
 
-## International Journal Publications
+## International Journal 
 1. **J. T. Amael**, J. E. Istiyanto, and O. Natan, “Enhancing Industrial Cybersecurity: SoftHSM Implementation on SBCs for Mitigating MITM Attacks,” in *IEEE Transaction on Dependable and Secure Computing* (Submitted), [arXiv:2409.09948](https://arxiv.org/pdf/2409.09948)
 
 2. **J. T. Amael**, O. Natan, and J. E. Istiyanto, “High-Security Hardware Module with PUF and Hybrid Cryptography for Data Security,” in *IEEE Transaction on Computer* (Submitted), [arXiv:2409.09928](https://arxiv.org/abs/2409.09928)
 
 3. J. E. Istiyanto, O. Natan, N. G. Augoestien, I. Peradeniya, S. Giffari, M. Putri, and **J. T. Amael**, “Implementing ECDSA-Based Authentication in Autonomous Mobile Robots using ICs DS28E38,” in *e-Prime - Advances in Electrical Engineering, Electronics and Energy* (Submitted).
 
- 
+---
+# Achievements 
+
+### 1. AWARDEE AT IES STUDENT & YOUNG PROFESSIONAL PAPER ASSISTANCE / BEST PAPER FOR STUDENT
+**Event:** 33rd International Symposium on Industrial Electronics (IEEE ISIE)  
+**Location:** Ulsan, South Korea  
+**Date:** June 2024  
+**Achievement:** Best Paper Award for Student  
+- Recognized for my research paper on [Your Topic]. This achievement highlights my dedication and contribution to the field of industrial electronics and system security.
 
 ---
+
+### 2. 2ND PLACE WINNER IN BUSINESS CASE REVOLUTION OF ENERGY 2022 COMPETITION
+**Event:** Business Case Competition by the Society of Renewable Energy, Universitas Gadjah Mada  
+**Date:** November 2022  
+**Achievement:** 2nd Place  
+- Collaborated on a business case related to the energy sector, proposing innovative solutions for renewable energy and sustainability.
+
+---
+
+### 3. FINALIST GEMATIK XV 2022
+**Event:** National Student Performance in Information Technology and Communication  
+**Organizer:** National Achievement Center, Ministry of Education, Culture, Research, and Technology  
+**Date:** October 2022 - November 2022  
+**Achievement:** Finalist  
+- Developed and presented innovative solutions in the field of Information Technology, contributing to national-level achievements in tech education.
+
+---
+
+### 4. 3RD PLACE WINNER IN INNOVATION OF TECHNOLOGY 2019
+**Event:** Innovation of Technology (INTECH) by Faculty of Electrical Engineering and Computer Science, Satya Wacana Christian University  
+**Date:** October 2019  
+**Achievement:** 3rd Place  
+- Awarded for creating a technological innovation that showcased advancements in hardware and software integration in industrial applications.
+
+---
+
+## GRANTS
+
+### MATCHING FUND KEDAIREKA PROGRAM 2024  
+**Project:** Data Integrity Module for Industrial Autonomous Mobile Robots (AMR)  
+**Duration:** June 2024 – Present  
+- Developing a data integrity module using the DS28E38 security IC to ensure the authenticity and integrity of data within industrial AMRs, enhancing overall system security.
+
+---
+
+### MATCHING FUND KEDAIREKA PROGRAM 2023  
+**Project:** Hardware Security Module Development  
+**Duration:** June 2023 – December 2023  
+- Worked on designing cryptographic algorithms and integrating them with FPGA-based logic gates to create a robust security solution for hardware systems.
+
+---
+
+### CREATIVITY STUDENT PROGRAM IN INVENTION 2023  
+**Project:** Coastal Monitoring Tool for Rip Current Detection  
+**Duration:** June 2023 – December 2023  
+- Led a team in developing a computer vision-based monitoring tool aimed at detecting dangerous rip currents along coastlines.
+
+---
+
+### CREATIVITY STUDENT PROGRAM IN INNOVATIVE WORK 2023  
+**Project:** Automated Animal Enclosure System  
+**Duration:** June 2023 – December 2023  
+- Developed an automated sprinkler system for animal enclosures, monitoring temperature, humidity, and ammonia levels. Integrated a mobile application for real-time monitoring and control by farmers.
+
+---
+
+
 
 ## Research Scope
 1. Hardware Programming
@@ -52,51 +117,104 @@ GPA: 3.89/4.00
 
 ---
 
-## Experience
-1. **Awardee** - *Best Paper for Student*  
-   33rd International Symposium on Industrial Electronics (ISIE), Ulsan, South Korea (June 2024).
+# Experience
 
-2. **Internship** - *Hardware Engineer*  
-   PT Stechoq Robotika Indonesia (August 2023 - June 2024).
+### 1. INTERNSHIP, HARDWARE ENGINEER AT PT. STECHOQ ROBOTIKA
+**Company:** PT. Stechoq Robotika Indonesia  
+**Duration:** August 2023 – June 2024  
+- Developed and implemented hardware solutions for robotic systems in industrial applications. Collaborated with a multidisciplinary team to optimize robot performance and ensure hardware reliability.
 
-3. **Assistant**, Electronics and Instrumentation Lab  
-   Gadjah Mada University (Feb 2024 – Present).
+---
 
-4. **President**, Elins Research Club  
-   Gadjah Mada University (March 2023 – 2024).
+### 2. ASSISTANT, ELECTRONICS AND INSTRUMENTATION LAB
+**Position:** Lab Assistant  
+**Institution:** Gadjah Mada University  
+**Duration:** February 2024 – Present  
+- Assisting in the practical implementation of electronics and instrumentation concepts, guiding students through lab exercises, and providing technical support.
 
-5. **Assistant**, Digital Signal Processing Lab  
-   Gadjah Mada University (Aug 2023 – Dec 2023).
+---
 
-6. **Assistant**, Electronics Workshop Lab  
-   Gadjah Mada University (Feb 2023 – June 2023).
+### 3. PRESIDENT, ELINS RESEARCH CLUB
+**Position:** President  
+**Organization:** Elins Research Club, Gadjah Mada University  
+**Duration:** March 2023 – 2024  
+- Led a research-focused student organization, fostering innovation and collaboration in the field of electronics and instrumentation. Organized workshops, seminars, and collaborative projects.
 
-7. **Assistant Lecturer**, Advanced Electronics  
-   Gadjah Mada University (Feb 2024 – June 2024).
+---
 
-8. **Head Researcher**, *"Dana Padanan" Project 2024*  
-   Data Extraction Module for Coordination between Autonomous Robots for Industry, Gadjah Mada University (July 2024 – Dec 2024).
+### 4. ASSISTANT FOR DIGITAL SIGNAL PROCESSING LAB
+**Position:** Lab Assistant  
+**Institution:** Gadjah Mada University  
+**Duration:** August 2023 – December 2023  
+- Supported students in understanding digital signal processing concepts, conducted lab sessions, and assisted with practical assignments.
 
-9. **Researcher**, Matching Funds Project 2023  
-   Cyber-Physical Testbed, Gadjah Mada University (July 2023 – Dec 2023).
+---
 
-10. **Programmer**, Gadjah Mada Robotic Team, *Fukuro*  
-    Gadjah Mada University (Feb 2022 – 2023).
+### 5. ASSISTANT FOR ELECTRONICS WORKSHOP LAB
+**Position:** Lab Assistant  
+**Institution:** Gadjah Mada University  
+**Duration:** February 2023 – June 2023  
+- Facilitated electronics workshop courses, helping students to build circuits, troubleshoot hardware issues, and apply theoretical knowledge.
 
-11. **Referee**, VEX Asian Robotics International Competition  
-    VEX Robotics, Yogyakarta (Jan 2024).
+---
 
-12. **Speaker**, *Project-Based Learning and STEM Learning Training*  
-    MGMP IPA SMP, Salatiga (Aug 2024).
+### 6. ASSISTANT LECTURER FOR ADVANCED ELECTRONICS
+**Position:** Assistant Lecturer  
+**Institution:** Gadjah Mada University  
+**Duration:** February 2024 – June 2024  
+- Assisted in teaching advanced electronics concepts, supported students in projects, and provided academic guidance in coursework.
 
-13. **Speaker**, *Cybersecurity Awareness Seminar*  
-    DIKE FMIPA UGM, Universiti Teknologi MARA, Taman Pintar Yogyakarta (Nov 2023).
+---
 
-14. **2nd Place Winner**, *Business Case Revolution of Energy 2022 Competition*  
-    Society of Renewable Energy, Universitas Gadjah Mada (Nov 2022).
+### 7. HEAD RESEARCHER AT "Dana Padanan" PROJECT 2024
+**Project:** Data Extraction Module for Coordination between Autonomous Robots for Industry  
+**Institution:** Gadjah Mada University  
+**Duration:** July 2024 – December 2024  
+- Led a research project focusing on the development of data extraction and communication modules for autonomous robots in industrial settings.
 
-15. **Finalist**, *GEMATIK XV 2022*  
-    National Student Performance in IT and Communication, Ministry of Education, Culture, Research, and Technology (Oct 2022 - Nov 2022).
+---
+
+### 8. RESEARCHER AT MATCHING FUNDS PROJECT 2023
+**Project:** Cyber-Physical Testbed  
+**Institution:** Gadjah Mada University  
+**Duration:** July 2023 – December 2023  
+- Conducted research in the cyber-physical system domain, working on testbed development to improve system resilience and reliability.
+
+---
+
+### 9. PROGRAMMER, GADJAH MADA ROBOTIC TEAM (FUKURO)
+**Position:** Programmer  
+**Team:** Gadjah Mada Robotic Team, Fukuro  
+**Institution:** Gadjah Mada University  
+**Duration:** February 2022 – 2023  
+- Developed code for robotic systems, focusing on automation and control algorithms. Contributed to competitions and robotic research projects.
+
+---
+
+### 10. REFEREE AT VEX ASIAN ROBOTIC INTERNATIONAL COMPETITION 2024
+**Event:** VEX Robotics Competition  
+**Location:** Yogyakarta  
+**Date:** January 2024  
+- Served as a referee at the international robotic competition, ensuring fairness and adherence to competition rules.
+
+---
+
+### 11. SPEAKER AT "Pelatihan Pembelajaran Berbasis Proyek (PjBL) dan Pembelajaran STEM MGMP IPA SMP Kota Salatiga"
+**Event:** STEM & PjBL Training  
+**Organization:** MGMP IPA SMP, Salatiga  
+**Date:** August 2024  
+- Delivered a presentation on Project-Based Learning (PjBL) and STEM education strategies to science teachers in Salatiga.
+
+---
+
+### 12. SPEAKER AT CYBERSECURITY AWARENESS SEMINAR
+**Event:** International Cybersecurity Awareness Seminar  
+**Organizers:** DIKE FMIPA UGM, Universiti Teknologi MARA, and Taman Pintar Yogyakarta  
+**Date:** [Insert Date]  
+- Spoke on the importance of cybersecurity, sharing insights on emerging threats and strategies to mitigate risks in the digital landscape.
+
+---
+
 
 ---
 
