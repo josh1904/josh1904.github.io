@@ -31,7 +31,7 @@
 
 ## Achievements 
 
-### 1. AWARDEE AT IES STUDENT & YOUNG PROFESSIONAL PAPER ASSISTANCE / BEST PAPER FOR STUDENT
+### AWARDEE AT IES STUDENT & YOUNG PROFESSIONAL PAPER ASSISTANCE / BEST PAPER FOR STUDENT
 **Event:** 33rd International Symposium on Industrial Electronics (IEEE ISIE)  
 **Location:** Ulsan, South Korea  
 **Date:** June 2024  
@@ -40,7 +40,7 @@
 
 ---
 
-### 2. 2ND PLACE WINNER IN BUSINESS CASE REVOLUTION OF ENERGY 2022 COMPETITION
+### 2ND PLACE WINNER IN BUSINESS CASE REVOLUTION OF ENERGY 2022 COMPETITION
 **Event:** Business Case Competition by the Society of Renewable Energy, Universitas Gadjah Mada  
 **Date:** November 2022  
 **Achievement:** 2nd Place  
@@ -48,7 +48,7 @@
 
 ---
 
-### 3. FINALIST GEMATIK XV 2022
+### FINALIST GEMATIK XV 2022
 **Event:** National Student Performance in Information Technology and Communication  
 **Organizer:** National Achievement Center, Ministry of Education, Culture, Research, and Technology  
 **Date:** October 2022 - November 2022  
@@ -57,7 +57,7 @@
 
 ---
 
-### 4. 3RD PLACE WINNER IN INNOVATION OF TECHNOLOGY 2019
+### 3RD PLACE WINNER IN INNOVATION OF TECHNOLOGY 2019
 **Event:** Innovation of Technology (INTECH) by Faculty of Electrical Engineering and Computer Science, Satya Wacana Christian University  
 **Date:** October 2019  
 **Achievement:** 3rd Place  
@@ -117,14 +117,14 @@
 
 ## Experience
 
-### 1. INTERNSHIP, HARDWARE ENGINEER AT PT. STECHOQ ROBOTIKA
+### INTERNSHIP, HARDWARE ENGINEER AT PT. STECHOQ ROBOTIKA
 **Company:** PT. Stechoq Robotika Indonesia  
 **Duration:** August 2023 – June 2024  
 - Developed hardware solutions for robotic systems, optimizing performance and ensuring reliability.
 
 ---
 
-### 2. ASSISTANT, ELECTRONICS AND INSTRUMENTATION LAB
+### ASSISTANT, ELECTRONICS AND INSTRUMENTATION LAB
 **Position:** Lab Assistant  
 **Institution:** Gadjah Mada University  
 **Duration:** February 2024 – Present  
@@ -132,7 +132,7 @@
 
 ---
 
-### 3. PRESIDENT, ELINS RESEARCH CLUB
+### PRESIDENT, ELINS RESEARCH CLUB
 **Position:** President  
 **Organization:** Elins Research Club, Gadjah Mada University  
 **Duration:** March 2023 – 2024  
@@ -140,7 +140,7 @@
 
 ---
 
-### 4. ASSISTANT FOR DIGITAL SIGNAL PROCESSING LAB
+### ASSISTANT FOR DIGITAL SIGNAL PROCESSING LAB
 **Position:** Lab Assistant  
 **Institution:** Gadjah Mada University  
 **Duration:** August 2023 – December 2023  
@@ -148,7 +148,7 @@
 
 ---
 
-### 5. ASSISTANT FOR ELECTRONICS WORKSHOP LAB
+### ASSISTANT FOR ELECTRONICS WORKSHOP LAB
 **Position:** Lab Assistant  
 **Institution:** Gadjah Mada University  
 **Duration:** February 2023 – June 2023  
@@ -156,7 +156,7 @@
 
 ---
 
-### 6. ASSISTANT LECTURER FOR ADVANCED ELECTRONICS
+### ASSISTANT LECTURER FOR ADVANCED ELECTRONICS
 **Position:** Assistant Lecturer  
 **Institution:** Gadjah Mada University  
 **Duration:** February 2024 – June 2024  
@@ -164,7 +164,7 @@
 
 ---
 
-### 7. HEAD RESEARCHER AT "Dana Padanan" PROJECT 2024
+### HEAD RESEARCHER AT "Dana Padanan" PROJECT 2024
 **Project:** Data Extraction Module for Autonomous Robots  
 **Institution:** Gadjah Mada University  
 **Duration:** July 2024 – December 2024  
@@ -172,7 +172,7 @@
 
 ---
 
-### 8. RESEARCHER AT MATCHING FUNDS PROJECT 2023
+### RESEARCHER AT MATCHING FUNDS PROJECT 2023
 **Project:** Cyber-Physical Testbed  
 **Institution:** Gadjah Mada University  
 **Duration:** July 2023 – December 2023  
@@ -180,7 +180,7 @@
 
 ---
 
-### 9. PROGRAMMER, GADJAH MADA ROBOTIC TEAM (FUKURO)
+### PROGRAMMER, GADJAH MADA ROBOTIC TEAM (FUKURO)
 **Position:** Programmer  
 **Institution:** Gadjah Mada University  
 **Duration:** February 2022 – 2023  
@@ -188,7 +188,7 @@
 
 ---
 
-### 10. REFEREE AT VEX ASIAN ROBOTIC INTERNATIONAL COMPETITION 2024
+### REFEREE AT VEX ASIAN ROBOTIC INTERNATIONAL COMPETITION 2024
 **Event:** VEX Robotics Competition  
 **Location:** Yogyakarta  
 **Date:** January 2024  
@@ -196,7 +196,7 @@
 
 ---
 
-### 11. SPEAKER AT "Pelatihan Pembelajaran Berbasis Proyek (PjBL) dan Pembelajaran STEM MGMP IPA SMP Kota Salatiga"
+### SPEAKER AT "Pelatihan Pembelajaran Berbasis Proyek (PjBL) dan Pembelajaran STEM MGMP IPA SMP Kota Salatiga"
 **Event:** STEM & PjBL Training  
 **Organization:** MGMP IPA SMP, Salatiga  
 **Date:** August 2024  
@@ -204,7 +204,7 @@
 
 ---
 
-### 12. SPEAKER AT CYBERSECURITY AWARENESS SEMINAR
+### SPEAKER AT CYBERSECURITY AWARENESS SEMINAR
 **Event:** International Cybersecurity Awareness Seminar  
 **Organizers:** DIKE FMIPA UGM, Universiti Teknologi MARA, and Taman Pintar Yogyakarta  
 **Date:** [Insert Date]  
