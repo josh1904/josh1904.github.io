@@ -8,34 +8,35 @@
 
 ## Education
 **Electronic and Instrumentation**, Gadjah Mada University  
-GPA: 3.89/4.00  
-(2021 - 2024)
+**GPA:** 3.89/4.00  
+**Duration:** 2021 - 2024
 
 ---
 
-## International Conference
+## International Conferences
 1. **J. T. Amael**, J. E. Istiyanto, Z. Hakim, R. H. Sari, A. Z. K. Frisky, and O. Natan, “Securing Ventilators: Integrating Hardware Security Modules with SoftHSM and Cryptographic Algorithms,” in *Proceedings of the 33rd International Symposium on Industrial Electronics (ISIE)*, Ulsan, South Korea, June 2024, DOI: [10.1109/ISIE54533.2024.10595781](https://doi.org/10.1109/ISIE54533.2024.10595781)
 
 2. Z. Hakim, O. Natan, R. H. Sari, **J. T. Amael**, A. Dharmawan, and J. E. Istiyanto, “6-DOF Arm Robot Control using Open-Source FPGA,” in *Proceedings of the International Conference on Control and Robotics Engineering (ICCRE)*, Osaka, Japan, May 2024, pp. 157 – 161, DOI: [10.1109/ICCRE61448.2024.10589887](https://doi.org/10.1109/ICCRE61448.2024.10589887)
 
 ---
 
-## International Journal 
-1. **J. T. Amael**, J. E. Istiyanto, and O. Natan, “Enhancing Industrial Cybersecurity: SoftHSM Implementation on SBCs for Mitigating MITM Attacks,” in *IEEE Transaction on Dependable and Secure Computing* (Submitted), [arXiv:2409.09948](https://arxiv.org/pdf/2409.09948)
+## International Journals
+1. **J. T. Amael**, J. E. Istiyanto, and O. Natan, “Enhancing Industrial Cybersecurity: SoftHSM Implementation on SBCs for Mitigating MITM Attacks,” in *IEEE Transactions on Dependable and Secure Computing* (Submitted), [arXiv:2409.09948](https://arxiv.org/pdf/2409.09948)
 
-2. **J. T. Amael**, O. Natan, and J. E. Istiyanto, “High-Security Hardware Module with PUF and Hybrid Cryptography for Data Security,” in *IEEE Transaction on Computer* (Submitted), [arXiv:2409.09928](https://arxiv.org/abs/2409.09928)
+2. **J. T. Amael**, O. Natan, and J. E. Istiyanto, “High-Security Hardware Module with PUF and Hybrid Cryptography for Data Security,” in *IEEE Transactions on Computers* (Submitted), [arXiv:2409.09928](https://arxiv.org/abs/2409.09928)
 
-3. J. E. Istiyanto, O. Natan, N. G. Augoestien, I. Peradeniya, S. Giffari, M. Putri, and **J. T. Amael**, “Implementing ECDSA-Based Authentication in Autonomous Mobile Robots using ICs DS28E38,” in *e-Prime - Advances in Electrical Engineering, Electronics and Energy* (Submitted).
+3. J. E. Istiyanto, O. Natan, N. G. Augoestien, I. Peradeniya, S. Giffari, M. Putri, and **J. T. Amael**, “Implementing ECDSA-Based Authentication in Autonomous Mobile Robots using ICs DS28E38,” in *e-Prime - Advances in Electrical Engineering, Electronics and Energy* (Submitted)
 
 ---
-# Achievements 
+
+## Achievements 
 
 ### 1. AWARDEE AT IES STUDENT & YOUNG PROFESSIONAL PAPER ASSISTANCE / BEST PAPER FOR STUDENT
 **Event:** 33rd International Symposium on Industrial Electronics (IEEE ISIE)  
 **Location:** Ulsan, South Korea  
 **Date:** June 2024  
 **Achievement:** Best Paper Award for Student  
-- Recognized for my research paper on [Your Topic]. This achievement highlights my dedication and contribution to the field of industrial electronics and system security.
+- Recognized for my research paper on securing industrial electronics using cryptographic algorithms and hardware security modules.
 
 ---
 
@@ -43,7 +44,7 @@ GPA: 3.89/4.00
 **Event:** Business Case Competition by the Society of Renewable Energy, Universitas Gadjah Mada  
 **Date:** November 2022  
 **Achievement:** 2nd Place  
-- Collaborated on a business case related to the energy sector, proposing innovative solutions for renewable energy and sustainability.
+- Collaborated on a business case proposing innovative solutions for renewable energy.
 
 ---
 
@@ -52,7 +53,7 @@ GPA: 3.89/4.00
 **Organizer:** National Achievement Center, Ministry of Education, Culture, Research, and Technology  
 **Date:** October 2022 - November 2022  
 **Achievement:** Finalist  
-- Developed and presented innovative solutions in the field of Information Technology, contributing to national-level achievements in tech education.
+- Developed and presented solutions in Information Technology, contributing to national-level achievements in tech education.
 
 ---
 
@@ -60,69 +61,66 @@ GPA: 3.89/4.00
 **Event:** Innovation of Technology (INTECH) by Faculty of Electrical Engineering and Computer Science, Satya Wacana Christian University  
 **Date:** October 2019  
 **Achievement:** 3rd Place  
-- Awarded for creating a technological innovation that showcased advancements in hardware and software integration in industrial applications.
+- Awarded for technological innovation that advanced hardware and software integration.
 
 ---
 
-## GRANTS
+## Grants
 
 ### MATCHING FUND KEDAIREKA PROGRAM 2024  
 **Project:** Data Integrity Module for Industrial Autonomous Mobile Robots (AMR)  
 **Duration:** June 2024 – Present  
-- Developing a data integrity module using the DS28E38 security IC to ensure the authenticity and integrity of data within industrial AMRs, enhancing overall system security.
+- Developed a data integrity module using the DS28E38 security IC to ensure the authenticity and integrity of data in industrial AMRs, improving overall security.
 
 ---
 
 ### MATCHING FUND KEDAIREKA PROGRAM 2023  
 **Project:** Hardware Security Module Development  
 **Duration:** June 2023 – December 2023  
-- Worked on designing cryptographic algorithms and integrating them with FPGA-based logic gates to create a robust security solution for hardware systems.
+- Designed cryptographic algorithms and integrated them into FPGA-based systems for enhanced hardware security.
 
 ---
 
 ### CREATIVITY STUDENT PROGRAM IN INVENTION 2023  
 **Project:** Coastal Monitoring Tool for Rip Current Detection  
 **Duration:** June 2023 – December 2023  
-- Led a team in developing a computer vision-based monitoring tool aimed at detecting dangerous rip currents along coastlines.
+- Led the development of a computer vision-based tool for detecting dangerous rip currents along coastlines.
 
 ---
 
 ### CREATIVITY STUDENT PROGRAM IN INNOVATIVE WORK 2023  
 **Project:** Automated Animal Enclosure System  
 **Duration:** June 2023 – December 2023  
-- Developed an automated sprinkler system for animal enclosures, monitoring temperature, humidity, and ammonia levels. Integrated a mobile application for real-time monitoring and control by farmers.
+- Developed an automated sprinkler system for animal enclosures, monitoring environmental factors, and integrating a mobile app for farmers' remote control and monitoring.
 
 ---
 
-
-
 ## Research Scope
-1. Hardware Programming
-2. FPGA
-3. Hardware Security Modules
-4. Cryptography
+- Hardware Programming  
+- FPGA  
+- Hardware Security Modules  
+- Cryptography
 
 ---
 
 ## Intellectual Property for Research
+
 1. **BUOY-WATCH: RIP CURRENT DETECTION SYSTEM**  
-   Registration Number: 000576204  
-   • Type of Creation: Computer Program  
-   • A rip current detection system utilizing computer vision, specifically object detection with YOLO. This system is connected to an open-source web server.
+   **Registration Number:** 000576204  
+   - A rip current detection system utilizing YOLO-based object detection and connected to an open-source web server.
 
 2. **MF RETRAIN**  
-   Registration Number: 000548665  
-   • Type of Creation: Computer Program  
-   • An anomaly detection system for industrial-scale machinery networks, using the DT machine learning algorithm. This system is designed to prevent cyber-attacks on industrial machines.
+   **Registration Number:** 000548665  
+   - Anomaly detection system for industrial machinery networks using the DT machine learning algorithm, designed to prevent cyber-attacks.
 
 ---
 
-# Experience
+## Experience
 
 ### 1. INTERNSHIP, HARDWARE ENGINEER AT PT. STECHOQ ROBOTIKA
 **Company:** PT. Stechoq Robotika Indonesia  
 **Duration:** August 2023 – June 2024  
-- Developed and implemented hardware solutions for robotic systems in industrial applications. Collaborated with a multidisciplinary team to optimize robot performance and ensure hardware reliability.
+- Developed hardware solutions for robotic systems, optimizing performance and ensuring reliability.
 
 ---
 
@@ -130,7 +128,7 @@ GPA: 3.89/4.00
 **Position:** Lab Assistant  
 **Institution:** Gadjah Mada University  
 **Duration:** February 2024 – Present  
-- Assisting in the practical implementation of electronics and instrumentation concepts, guiding students through lab exercises, and providing technical support.
+- Assisted students in implementing electronics and instrumentation concepts through lab exercises and technical guidance.
 
 ---
 
@@ -138,7 +136,7 @@ GPA: 3.89/4.00
 **Position:** President  
 **Organization:** Elins Research Club, Gadjah Mada University  
 **Duration:** March 2023 – 2024  
-- Led a research-focused student organization, fostering innovation and collaboration in the field of electronics and instrumentation. Organized workshops, seminars, and collaborative projects.
+- Led the student research club, organizing workshops, seminars, and collaborative projects in electronics and instrumentation.
 
 ---
 
@@ -146,7 +144,7 @@ GPA: 3.89/4.00
 **Position:** Lab Assistant  
 **Institution:** Gadjah Mada University  
 **Duration:** August 2023 – December 2023  
-- Supported students in understanding digital signal processing concepts, conducted lab sessions, and assisted with practical assignments.
+- Supported students in digital signal processing lab sessions, guiding them through practical assignments.
 
 ---
 
@@ -154,7 +152,7 @@ GPA: 3.89/4.00
 **Position:** Lab Assistant  
 **Institution:** Gadjah Mada University  
 **Duration:** February 2023 – June 2023  
-- Facilitated electronics workshop courses, helping students to build circuits, troubleshoot hardware issues, and apply theoretical knowledge.
+- Facilitated electronics workshop courses, helping students build and troubleshoot circuits while applying theoretical knowledge.
 
 ---
 
@@ -162,15 +160,15 @@ GPA: 3.89/4.00
 **Position:** Assistant Lecturer  
 **Institution:** Gadjah Mada University  
 **Duration:** February 2024 – June 2024  
-- Assisted in teaching advanced electronics concepts, supported students in projects, and provided academic guidance in coursework.
+- Assisted in teaching advanced electronics, providing academic guidance and supporting student projects.
 
 ---
 
 ### 7. HEAD RESEARCHER AT "Dana Padanan" PROJECT 2024
-**Project:** Data Extraction Module for Coordination between Autonomous Robots for Industry  
+**Project:** Data Extraction Module for Autonomous Robots  
 **Institution:** Gadjah Mada University  
 **Duration:** July 2024 – December 2024  
-- Led a research project focusing on the development of data extraction and communication modules for autonomous robots in industrial settings.
+- Led the research project focusing on data extraction and communication between autonomous industrial robots.
 
 ---
 
@@ -178,16 +176,15 @@ GPA: 3.89/4.00
 **Project:** Cyber-Physical Testbed  
 **Institution:** Gadjah Mada University  
 **Duration:** July 2023 – December 2023  
-- Conducted research in the cyber-physical system domain, working on testbed development to improve system resilience and reliability.
+- Conducted research on cyber-physical systems, contributing to the development of a testbed for system resilience.
 
 ---
 
 ### 9. PROGRAMMER, GADJAH MADA ROBOTIC TEAM (FUKURO)
 **Position:** Programmer  
-**Team:** Gadjah Mada Robotic Team, Fukuro  
 **Institution:** Gadjah Mada University  
 **Duration:** February 2022 – 2023  
-- Developed code for robotic systems, focusing on automation and control algorithms. Contributed to competitions and robotic research projects.
+- Developed robotic control systems, focusing on automation and control algorithms for competitions and research.
 
 ---
 
@@ -195,7 +192,7 @@ GPA: 3.89/4.00
 **Event:** VEX Robotics Competition  
 **Location:** Yogyakarta  
 **Date:** January 2024  
-- Served as a referee at the international robotic competition, ensuring fairness and adherence to competition rules.
+- Ensured fair competition and adherence to rules as a referee at the international robotics event.
 
 ---
 
@@ -203,7 +200,7 @@ GPA: 3.89/4.00
 **Event:** STEM & PjBL Training  
 **Organization:** MGMP IPA SMP, Salatiga  
 **Date:** August 2024  
-- Delivered a presentation on Project-Based Learning (PjBL) and STEM education strategies to science teachers in Salatiga.
+- Delivered training on Project-Based Learning (PjBL) and STEM education strategies to science teachers in Salatiga.
 
 ---
 
@@ -211,31 +208,26 @@ GPA: 3.89/4.00
 **Event:** International Cybersecurity Awareness Seminar  
 **Organizers:** DIKE FMIPA UGM, Universiti Teknologi MARA, and Taman Pintar Yogyakarta  
 **Date:** [Insert Date]  
-- Spoke on the importance of cybersecurity, sharing insights on emerging threats and strategies to mitigate risks in the digital landscape.
-
----
-
+- Spoke on cybersecurity, sharing insights on emerging threats and mitigation strategies.
 
 ---
 
 ## Projects
 
 1. **Hardware Security Module for Autonomous Mobile Robot using IC DS28E38**  
-   The hardware security module is specifically designed to ensure the integrity of communication data between ARM robots, with the assistance of the DS28E38 security IC. This security system utilizes the ECDSA algorithm, enhanced with a PUF (Physical Uncloneable Function) to generate the keys for the algorithm.
+   - Designed a security module for industrial robots using the DS28E38 IC, securing communication with ECDSA and PUF technology.
 
-2. **BUOY-WATCH: Early Warning Rip Current Detection Alarm System Based on Computer Vision for Beach Safety Monitoring**  
-   The design of an alarm system for early detection of rip currents along the coastline using computer vision object detection. This system is designed as an early warning system to detect rip current waves.
+2. **BUOY-WATCH: Early Warning Rip Current Detection Alarm System**  
+   - Developed a computer vision-based early warning system to detect rip currents for coastal safety.
 
-3. **ADEM: Internet of Things-based Smart Sprinkler to Prevent Heat Stress in Chickens**  
-   The development of a smart sprinkler product using IoT, which consists of sensor detectors to monitor ammonia levels, temperature, and humidity in the poultry farm to manage the sprinkler system, functioning as a preventive measure against heat stress in chickens. This research also includes the development of a mobile app to facilitate remote monitoring for farmers.
+3. **ADEM: IoT-based Smart Sprinkler to Prevent Heat Stress in Chickens**  
+   - Created an IoT-based system for managing sprinklers in poultry farms to prevent heat stress, with an integrated mobile app for monitoring.
 
 4. **Hardware Security Module for Ventilator Security**  
-   The development of a prototype hardware security module to secure ventilators. This Hardware Security Module is designed to protect the ventilator's firmware using cryptographic algorithms and Physical Uncloneable Functions (PUF) on a Field Programmable Gate Array (FPGA).
+   - Developed a hardware security module prototype to protect ventilators from cyber-attacks using cryptography and FPGA.
 
-5. **Drone-Based Coastal Monitoring of Parangtritis Beach using Image Processing Methods**  
-   The design of a drone capable of scanning rip currents using image processing techniques. This project was part of the 15th National Student Exhibition in the Field of Information and Communication Technology (October 2022 – November 2022).
+5. **Drone-Based Coastal Monitoring of Parangtritis Beach**  
+   - Designed a drone system to monitor rip currents using image processing techniques.
 
 6. **Autonomous Monte Carlo Localization for Wheeled Soccer Robots**  
-   The design of a localization system for wheeled soccer robots by implementing the Autonomous Monte Carlo Localization (AMCL) algorithm.
-
----
+   - Implemented the Autonomous Monte Carlo Localization (AMCL) algorithm for wheeled soccer robots.
