@@ -38,7 +38,6 @@
 **Achievement:** Best Paper Award for Student  
 - Recognized for my research paper on securing industrial electronics using cryptographic algorithms and hardware security modules.
 
----
 
 ### 2ND PLACE WINNER IN BUSINESS CASE REVOLUTION OF ENERGY 2022 COMPETITION
 **Event:** Business Case Competition by the Society of Renewable Energy, Universitas Gadjah Mada  
@@ -46,7 +45,6 @@
 **Achievement:** 2nd Place  
 - Collaborated on a business case proposing innovative solutions for renewable energy.
 
----
 
 ### FINALIST GEMATIK XV 2022
 **Event:** National Student Performance in Information Technology and Communication  
@@ -55,7 +53,6 @@
 **Achievement:** Finalist  
 - Developed and presented solutions in Information Technology, contributing to national-level achievements in tech education.
 
----
 
 ### 3RD PLACE WINNER IN INNOVATION OF TECHNOLOGY 2019
 **Event:** Innovation of Technology (INTECH) by Faculty of Electrical Engineering and Computer Science, Satya Wacana Christian University  
@@ -72,21 +69,18 @@
 **Duration:** June 2024 – Present  
 - Developed a data integrity module using the DS28E38 security IC to ensure the authenticity and integrity of data in industrial AMRs, improving overall security.
 
----
 
 ### MATCHING FUND KEDAIREKA PROGRAM 2023  
 **Project:** Hardware Security Module Development  
 **Duration:** June 2023 – December 2023  
 - Designed cryptographic algorithms and integrated them into FPGA-based systems for enhanced hardware security.
 
----
 
 ### CREATIVITY STUDENT PROGRAM IN INVENTION 2023  
 **Project:** Coastal Monitoring Tool for Rip Current Detection  
 **Duration:** June 2023 – December 2023  
 - Led the development of a computer vision-based tool for detecting dangerous rip currents along coastlines.
 
----
 
 ### CREATIVITY STUDENT PROGRAM IN INNOVATIVE WORK 2023  
 **Project:** Automated Animal Enclosure System  
@@ -122,7 +116,6 @@
 **Duration:** August 2023 – June 2024  
 - Developed hardware solutions for robotic systems, optimizing performance and ensuring reliability.
 
----
 
 ### ASSISTANT, ELECTRONICS AND INSTRUMENTATION LAB
 **Position:** Lab Assistant  
@@ -130,7 +123,6 @@
 **Duration:** February 2024 – Present  
 - Assisted students in implementing electronics and instrumentation concepts through lab exercises and technical guidance.
 
----
 
 ### PRESIDENT, ELINS RESEARCH CLUB
 **Position:** President  
@@ -138,7 +130,6 @@
 **Duration:** March 2023 – 2024  
 - Led the student research club, organizing workshops, seminars, and collaborative projects in electronics and instrumentation.
 
----
 
 ### ASSISTANT FOR DIGITAL SIGNAL PROCESSING LAB
 **Position:** Lab Assistant  
@@ -146,7 +137,6 @@
 **Duration:** August 2023 – December 2023  
 - Supported students in digital signal processing lab sessions, guiding them through practical assignments.
 
----
 
 ### ASSISTANT FOR ELECTRONICS WORKSHOP LAB
 **Position:** Lab Assistant  
@@ -154,7 +144,6 @@
 **Duration:** February 2023 – June 2023  
 - Facilitated electronics workshop courses, helping students build and troubleshoot circuits while applying theoretical knowledge.
 
----
 
 ### ASSISTANT LECTURER FOR ADVANCED ELECTRONICS
 **Position:** Assistant Lecturer  
@@ -162,7 +151,6 @@
 **Duration:** February 2024 – June 2024  
 - Assisted in teaching advanced electronics, providing academic guidance and supporting student projects.
 
----
 
 ### HEAD RESEARCHER AT "Dana Padanan" PROJECT 2024
 **Project:** Data Extraction Module for Autonomous Robots  
@@ -170,7 +158,6 @@
 **Duration:** July 2024 – December 2024  
 - Led the research project focusing on data extraction and communication between autonomous industrial robots.
 
----
 
 ### RESEARCHER AT MATCHING FUNDS PROJECT 2023
 **Project:** Cyber-Physical Testbed  
@@ -178,7 +165,6 @@
 **Duration:** July 2023 – December 2023  
 - Conducted research on cyber-physical systems, contributing to the development of a testbed for system resilience.
 
----
 
 ### PROGRAMMER, GADJAH MADA ROBOTIC TEAM (FUKURO)
 **Position:** Programmer  
@@ -186,7 +172,6 @@
 **Duration:** February 2022 – 2023  
 - Developed robotic control systems, focusing on automation and control algorithms for competitions and research.
 
----
 
 ### REFEREE AT VEX ASIAN ROBOTIC INTERNATIONAL COMPETITION 2024
 **Event:** VEX Robotics Competition  
@@ -194,7 +179,6 @@
 **Date:** January 2024  
 - Ensured fair competition and adherence to rules as a referee at the international robotics event.
 
----
 
 ### SPEAKER AT "Pelatihan Pembelajaran Berbasis Proyek (PjBL) dan Pembelajaran STEM MGMP IPA SMP Kota Salatiga"
 **Event:** STEM & PjBL Training  
@@ -202,7 +186,6 @@
 **Date:** August 2024  
 - Delivered training on Project-Based Learning (PjBL) and STEM education strategies to science teachers in Salatiga.
 
----
 
 ### SPEAKER AT CYBERSECURITY AWARENESS SEMINAR
 **Event:** International Cybersecurity Awareness Seminar  
